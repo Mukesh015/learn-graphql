@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.9.9",
+    "axios": "^1.6.8",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.1.0"
+  }
+}
